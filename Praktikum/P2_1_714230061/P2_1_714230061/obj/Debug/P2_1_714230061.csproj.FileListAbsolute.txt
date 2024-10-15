@@ -1,0 +1,7 @@
+D:\ngoding\c#\P2_1_714230061\P2_1_714230061\bin\Debug\P2_1_714230061.exe.config
+D:\ngoding\c#\P2_1_714230061\P2_1_714230061\bin\Debug\P2_1_714230061.exe
+D:\ngoding\c#\P2_1_714230061\P2_1_714230061\bin\Debug\P2_1_714230061.pdb
+D:\ngoding\c#\P2_1_714230061\P2_1_714230061\obj\Debug\P2_1_714230061.csproj.AssemblyReference.cache
+D:\ngoding\c#\P2_1_714230061\P2_1_714230061\obj\Debug\P2_1_714230061.csproj.CoreCompileInputs.cache
+D:\ngoding\c#\P2_1_714230061\P2_1_714230061\obj\Debug\P2_1_714230061.exe
+D:\ngoding\c#\P2_1_714230061\P2_1_714230061\obj\Debug\P2_1_714230061.pdb
