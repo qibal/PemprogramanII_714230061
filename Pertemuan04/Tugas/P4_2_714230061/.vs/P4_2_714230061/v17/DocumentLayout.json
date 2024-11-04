@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64389-A34F-488A-A8FD-034FC7FAD52E}|P4_2_714230061\\P4_2_714230061.csproj|c:\\users\\iqbal\\source\\repos\\p4_2_714230061\\p4_2_714230061\\cekkhodam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F64389-A34F-488A-A8FD-034FC7FAD52E}|P4_2_714230061\\P4_2_714230061.csproj|solutionrelative:p4_2_714230061\\cekkhodam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64389-A34F-488A-A8FD-034FC7FAD52E}|P4_2_714230061\\P4_2_714230061.csproj|c:\\users\\iqbal\\source\\repos\\p4_2_714230061\\p4_2_714230061\\khodambase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F64389-A34F-488A-A8FD-034FC7FAD52E}|P4_2_714230061\\P4_2_714230061.csproj|solutionrelative:p4_2_714230061\\khodambase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64389-A34F-488A-A8FD-034FC7FAD52E}|P4_2_714230061\\P4_2_714230061.csproj|c:\\users\\iqbal\\source\\repos\\p4_2_714230061\\p4_2_714230061\\khodamlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F64389-A34F-488A-A8FD-034FC7FAD52E}|P4_2_714230061\\P4_2_714230061.csproj|solutionrelative:p4_2_714230061\\khodamlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F64389-A34F-488A-A8FD-034FC7FAD52E}|P4_2_714230061\\P4_2_714230061.csproj|C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\p4_2_714230061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F64389-A34F-488A-A8FD-034FC7FAD52E}|P4_2_714230061\\P4_2_714230061.csproj|solutionrelative:p4_2_714230061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CekKhodam.cs",
+              "DocumentMoniker": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\P4_2_714230061\\CekKhodam.cs",
+              "RelativeDocumentMoniker": "P4_2_714230061\\CekKhodam.cs",
+              "ToolTip": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\P4_2_714230061\\CekKhodam.cs",
+              "RelativeToolTip": "P4_2_714230061\\CekKhodam.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:06:50.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhodamBase.cs",
+              "DocumentMoniker": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\P4_2_714230061\\KhodamBase.cs",
+              "RelativeDocumentMoniker": "P4_2_714230061\\KhodamBase.cs",
+              "ToolTip": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\P4_2_714230061\\KhodamBase.cs",
+              "RelativeToolTip": "P4_2_714230061\\KhodamBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:57:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhodamList.cs",
+              "DocumentMoniker": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\P4_2_714230061\\KhodamList.cs",
+              "RelativeDocumentMoniker": "P4_2_714230061\\KhodamList.cs",
+              "ToolTip": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\P4_2_714230061\\KhodamList.cs",
+              "RelativeToolTip": "P4_2_714230061\\KhodamList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAADuDAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:53:26.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\P4_2_714230061\\Program.cs",
+              "RelativeDocumentMoniker": "P4_2_714230061\\Program.cs",
+              "ToolTip": "C:\\Users\\iqbal\\source\\repos\\P4_2_714230061\\P4_2_714230061\\Program.cs",
+              "RelativeToolTip": "P4_2_714230061\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:43:00.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
