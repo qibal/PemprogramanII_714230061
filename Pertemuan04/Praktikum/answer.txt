@@ -1,0 +1,6 @@
+1. error karena mengakses myType yang di protected
+2. karena method MyType tidak menerima value apa apa, jadi saat memanggil MyType tidak akan muncul apa apa
+3. karena method MyType sudah di kirim value dan Ketika memanggil nya akan muncul data yang sudah di kirim
+4. karena variable MyType dan MyTitle beda dengan parameter di method Book_714230061()
+5. class Book_npm tidak ada variable yang akan menerima data type dan title akhirnya menggunakan base: untuk memanggil variable di class induknya 
+6. karen class DVD_npm hanya ada 2 parameter yang bisa di terima, dan data "DVD" sudah di inisialisasikan di variable di class DVD_npm
