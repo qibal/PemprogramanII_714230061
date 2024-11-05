@@ -1,0 +1,11 @@
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\bin\Debug\P5_2_714230061.exe.config
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\bin\Debug\P5_2_714230061.exe
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\bin\Debug\P5_2_714230061.pdb
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\obj\Debug\P5_2_714230061.csproj.AssemblyReference.cache
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\obj\Debug\P5_2_714230061.ChildForm.resources
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\obj\Debug\P5_2_714230061.ParentForm.resources
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\obj\Debug\P5_2_714230061.Properties.Resources.resources
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\obj\Debug\P5_2_714230061.csproj.GenerateResource.cache
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\obj\Debug\P5_2_714230061.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\obj\Debug\P5_2_714230061.exe
+C:\Users\iqbal\source\repos\P5_2_714230061\P5_2_714230061\obj\Debug\P5_2_714230061.pdb
